@@ -1,0 +1,4 @@
+name: "Kibi 4"
+description: "Business Intelligence dashboard"
+version: "4.5.4-rancher1"
+category: ELK
