@@ -1,0 +1,6 @@
+nginx-proxy:
+  metadata:
+    nginx:
+      conf:
+        servername: "kibi"
+        upstream_port: 5601 
